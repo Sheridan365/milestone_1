@@ -5,7 +5,7 @@
 
 ## Demo
 
-A live demo of the website can be found at https://sheridan365.github.io/milestone_1/
+- A live demo of the website can be found at https://sheridan365.github.io/milestone_1/
 
 ## UX
 
@@ -13,7 +13,7 @@ A live demo of the website can be found at https://sheridan365.github.io/milesto
 
 ## Features
 
-- This website is using bootstraps font awesome, from the bootstrapCDN website
+- This website is using bootstraps font awesome, from the bootstrapCDN website.
 
 ### Features Left to Implement
 - In the near future i would like to bring another page along with information and videos on our recent productions.
@@ -25,7 +25,7 @@ CSS3
 
 ## Testing
 
-- This site was tested using Google Chromes Developer tools to ensure compatibility and to ensure it responds appropriately.
+- This site was tested using Google Chromes Developer tools to ensure compatibility and to ensure it responds appropriately on different devices.
 
 ## Deployment
 
@@ -37,9 +37,9 @@ CSS3
 - All content in the Boxes, About us and Services sections on this site were written by me.
 
 ### Media
-- The photos used in this site were obtained from Google Images
+- The photos used in this site were obtained from Google Images.
 
 ### Acknowledgements
 
 - I received inspiration for this project from a few of the projects i have done with Code Institute as well as my personal ones.
-- The idea inspiration behind this website came from my father who writes music.
+- The idea and inspiration behind this website came from my father who writes music.
