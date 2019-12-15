@@ -5,7 +5,7 @@
 
 ## Demo
 
- A live demo of the website can be found at https://sheridan365.github.io/milestone_1/
+ A live demo of the website can be found at https://sheridan365.github.io/sheeran-sounds
 
 ## UX
 
@@ -41,10 +41,10 @@ Bootstrap CDN
 
 ### If you want to edit this site
 
-- Navigate to my github page here https://github.com/Sheridan365/milestone_1
+- Navigate to my github page here https://github.com/Sheridan365/sheeran-sounds
 - click on the clone/download button.
 - Copy link.
-- Now navigate to your terminal and type (git clone https://github.com/Sheridan365/milestone_1.git).
+- Now navigate to your terminal and type (git clone https://github.com/Sheridan365/sheeran-sounds.git)
 
 ## Credits
 
