@@ -32,19 +32,19 @@ Bootstrap CDN
 
  This site was deployed on GitHub pages. It uses the master branch it updates each time i push new code to the repository.
 
-### how i deployed my site
+### How i Deployed my site
 
- For deployment i used the git terminal...
- I started by adding all my files using the (git add) feature.
- Then i commited them using the (git commit -m "") feature.
- And finally i used the (git push) feature to push my files up to my github repository.
+- For deployment i used the git terminal...
+- I started by adding all my files using the (git add) feature.
+- Then i commited them using the (git commit -m "") feature.
+- And finally i used the (git push) feature to push my files up to my github repository.
 
 ### If you want to edit this site
 
- Navigate to my github page here https://github.com/Sheridan365/milestone_1
- click on the clone/download button.
- Copy link.
- Now navigate to your terminal and type (git clone https://github.com/Sheridan365/milestone_1.git).
+- Navigate to my github page here https://github.com/Sheridan365/milestone_1
+- click on the clone/download button.
+- Copy link.
+- Now navigate to your terminal and type (git clone https://github.com/Sheridan365/milestone_1.git).
 
 ## Credits
 
